@@ -1,4 +1,4 @@
-# penetration-testing
+# Penetration Testing Exam
 Assigment course penetration testing A.A 2024/2025.
 
 The main goals of this analysis was to identify and document as many vulnerabilities as possible in the system under investigation.
@@ -12,11 +12,11 @@ responses produced
 - Exploit DB[7]: Used to identify CVEs based on the results found in scanning time
 - sqlmap[1]: Used to do SQL injection
 - netcat[9]: Used to create connections to and from the container
-- Custom Script: Used for brute-force attacks to search the system root password */scripts/*
+- Custom Script: Used for brute-force attacks to search the system root password *scripts/*
 
 **FINDINGS**
 - XSS Injection
 - SQL Injection
 - Remote Command Exectuion
 
-Check */report/Report.pdf* for the complete documentation!
+Check *report/Report.pdf* for the complete documentation!
